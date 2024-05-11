@@ -1,4 +1,4 @@
 runtime_resource_overlay {
-    name: "FrameworksBaseCommon",
+    name: "LavenderFrameworksBase",
     vendor: true
 }

@@ -1,4 +1,4 @@
 runtime_resource_overlay {
-    name: "FrameworksBaseCommon",
+    name: "SettingsOverlay_Lineage",
     vendor: true
 }

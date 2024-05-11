@@ -4,7 +4,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-     package="android.xiaomi_sdm660">
+     package="android.frameworks.base">
      <overlay android:targetPackage="android"
           android:isStatic="true"
           android:priority="1000" />

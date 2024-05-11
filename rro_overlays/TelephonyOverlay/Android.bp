@@ -5,8 +5,8 @@
 //
 
 runtime_resource_overlay {
-    name: "TelephonySDM660Overlay",
-    theme: "TelephonySDM660Overlay",
+    name: "TelephonyCommon",
+    theme: "TelephonyCommon",
     sdk_version: "current",
     vendor: true
 }

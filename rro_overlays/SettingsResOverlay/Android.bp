@@ -5,8 +5,8 @@
 //
 
 runtime_resource_overlay {
-    name: "SettingsSDM660Overlay",
-    theme: "SettingsSDM660Overlay",
+    name: "SettingsCommon",
+    theme: "SettingsCommon",
     sdk_version: "current",
     vendor: true,
 }
