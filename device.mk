@@ -21,7 +21,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.bluetooth@1.0.vendor \
     vendor.qti.hardware.btconfigstore@1.0.vendor \
-    vendor.qti.hardware.btconfigstore@2.0.vendor    
+    vendor.qti.hardware.btconfigstore@2.0.vendor
 
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.bluetooth_audio@2.0.vendor
@@ -221,8 +221,7 @@ PRODUCT_PACKAGES += \
     init.target.rc \
     init.xiaomi.rc \
     init.xiaomi_parts.rc \
-    ueventd.qcom.rc \
-    apex_metadata.rc
+    ueventd.qcom.rc
 
 # IPACM
 PRODUCT_PACKAGES += \
